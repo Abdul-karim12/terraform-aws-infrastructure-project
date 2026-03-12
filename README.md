@@ -21,3 +21,9 @@ Infrastructure deployed on AWS using Terraform.
 terraform init  
 terraform plan  
 terraform apply
+
+## Deployment Proof
+
+![Terraform Output](images/terraform-output.png)
+
+![EC2 Webpage](images/ec2-webpage.png)
