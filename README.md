@@ -22,7 +22,7 @@ terraform init
 terraform plan  
 terraform apply
 
-## Deployment Proof
+## IMAGE   
 
 ![Terraform Output](images/terraform-output.png)
 
